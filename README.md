@@ -74,42 +74,60 @@
 
 ---
 
-## Main Features & How to Use
+## Product Manual
 
-### Dashboard/Home
+---
 
-- After logging in, you will see the dashboard/home screen.
-- The dashboard displays recent alerts, notifications, and system status.
-- Use the navigation menu (web) or tab bar/menu (mobile) to access different sections.
+### A. Browser App for Client Account Administrators
 
-### Receiving Alerts
+1. **Access the Dashboard**
+    - Go to [dashboard.alertoph.com](http://dashboard.alertoph.com)
+2. **Login**
+    - Provide the login credentials given by GMP (handle these credentials responsibly).
+3. **Recording/Generating Audio Files**
+    - **a. Recorded Vocal**
+        - Make sure to allow the use of your device’s microphone.
+        - Press the **gray icon**. When it turns **red**, recording will start.
+        - Press the **red icon** again to stop recording.
+        - An audio file will be generated in the list. You can replay the generated file to check.
+        - You can generate as many recordings as needed.
+    - **b. Voice Generator**
+        - Write the intended message in the space provided.
+        - Press **Speak** to confirm the correctness of the audio and save the file.
+        - Note: The kind of voice (male or female) is device dependent and should be set up by the device user.
+4. **Broadcasting Recorded Files**
+    - Go to the **Details** tab and indicate:
+        - Priority Level
+        - Barangay Scope
+        - Type of Emergency
+    - Go to your preferred audio file (voice recorded or generated) and highlight one file.
+    - Press **Broadcast Now** to confirm the transmission action.
+    - Confirmation of transmission will be indicated in the dashboard.
 
-- **Instant Notifications:** Receive real-time alerts about weather, emergencies, or community updates.
-- Alerts appear as push notifications (mobile) or pop-ups/banners (web).
-- Tap/click an alert to view its details.
+---
 
-### Customizing Notifications
+### B. Mobile App for Users
 
-- Go to **Settings** or **Profile**.
-- Select the types of notifications you want to receive (e.g., weather, community, emergency).
-- Set your location preferences for localized alerts.
+1. **Install the Mobile Application**
+    - Download and install the mobile application package on your phone (from Google Play, App Store, or AppGallery).
+    - Allow the necessary permissions on your mobile device.
+2. **Getting Started**
+    - Press **Let’s Get Started**.
+3. **First-Time User Setup**
+    - Input your details by providing your:
+        - Province
+        - City/Municipality
+        - Barangay
+    - Click **Next**.
+4. **Ready to Receive Alerts**
+    - Your device is now ready to receive broadcasts and alerts.
+5. **Edit Location (Optional)**
+    - You can edit your location if you wish to check for broadcasts in other locations.
+6. ### Private Channels (Mobile)
+    - Access private channels using a PIN code (if enabled by your organization).
+    - Tap the **Private Channel** button in the header.
+    - Enter the provided PIN to join a private alert group.
 
-### Audio Alerts
-
-- The app provides audio notifications for critical alerts.
-- Ensure your device’s sound is enabled to hear these alerts.
-
-### Private Channels (Mobile)
-
-- Access private channels using a PIN code (if enabled by your organization).
-- Tap the **Private Channel** button in the header.
-- Enter the provided PIN to join a private alert group.
-
-### Profile & Settings
-
-- Update your personal information, change your password, and adjust notification preferences.
-- On mobile, access settings via the menu or profile icon.
-- On web, settings are typically found in the top-right corner.
 
 ---
 
