@@ -1,6 +1,3 @@
-# Alerto PH Full Comprehensive Mannual
-
----
 
 # Alerto PH – User Guide
 
