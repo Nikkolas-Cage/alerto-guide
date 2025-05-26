@@ -2,27 +2,35 @@
 # Alerto PH – Full Comprehensive Mannual
 
 ---
+# Table of Contents
 
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Platform Overview](#platform-overview)
-3. [Getting Started](#getting-started)
+- [Alerto PH – Full Comprehensive Manual](#alerto-ph--full-comprehensive-mannual)
+  - [Introduction](#introduction)
+  - [Platform Overview](#platform-overview)
+  - [Getting Started](#getting-started)
     - [Web App](#web-app)
     - [Mobile App (Android/iOS/Huawei)](#mobile-app-androidioshuawei)
-4. [Account Registration & Login](#account-registration--login)
-5. [Main Features & How to Use](#main-features--how-to-use)
-    - [Dashboard/Home](#dashboardhome)
-    - [Receiving Alerts](#receiving-alerts)
-    - [Customizing Notifications](#customizing-notifications)
-    - [Audio Alerts](#audio-alerts)
-    - [Private Channels (Mobile)](#private-channels-mobile)
-    - [Profile & Settings](#profile--settings)
-6. [Troubleshooting & Support](#troubleshooting--support)
-7. [Contact Information](#contact-information)
-8. [References](#references)
-
----
+  - [Account Registration & Login](#account-registration--login)
+    - [Registration](#registration)
+    - [Login](#login)
+  - [Product Manual](#product-manual)
+    - [A. Browser App for Client Account Administrators](#a-browser-app-for-client-account-administrators)
+      1. [Access the Dashboard](#1-access-the-dashboard)
+      2. [Login](#2-login)
+      3. [Recording/Generating Audio Files](#3-recordinggenerating-audio-files)
+         - [a. Recorded Vocal](#a-recorded-vocal)
+         - [b. Voice Generator](#b-voice-generator)
+      4. [Broadcasting Recorded Files](#4-broadcasting-recorded-files)
+    - [B. Mobile App for Users](#b-mobile-app-for-users)
+      1. [Install the Mobile Application](#1-install-the-mobile-application)
+      2. [Getting Started](#2-getting-started)
+      3. [First-Time User Setup](#3-first-time-user-setup)
+      4. [Ready to Receive Alerts](#4-ready-to-receive-alerts)
+      5. [Edit Location (Optional)](#5-edit-location-optional)
+      6. [Private Channels (Mobile)](#6-private-channels-mobile)
+  - [Troubleshooting & Support](#troubleshooting--support)
+  - [Contact Information](#contact-information)
+  - [References](#references)
 
 ## Introduction
 
